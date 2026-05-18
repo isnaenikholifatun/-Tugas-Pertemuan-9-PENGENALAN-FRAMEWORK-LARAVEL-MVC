@@ -53,4 +53,4 @@
 ![Detail Kategori](screenshots/detail-kategori.png)
 
 #### 3. Hasil Search Buku (`/kategori/search/programming`)
-![Hasil Search Ktegori](screenshots/search-kategori.png)
+![Hasil Search Kategori](screenshots/search-kategori.png)
