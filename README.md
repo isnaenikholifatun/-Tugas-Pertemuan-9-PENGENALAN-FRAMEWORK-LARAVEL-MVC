@@ -49,7 +49,7 @@
 #### 1. Tampilan Daftar Kategori Perpustakaan (`/kategori`)
 ![Daftar Kategori](screenshots/tabel-kategori.png)
 
-#### 2. Detail Kategori Perpustakaan (`/kategori/{id}`)
+#### 2. Detail Kategori Perpustakaan (`/kategori/{2}`)
 ![Detail Kategori](screenshots/detail-kategori.png)
 
 #### 3. Hasil Search Buku (`/kategori/search/programming`)
